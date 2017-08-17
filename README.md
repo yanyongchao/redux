@@ -1,2 +1,2 @@
-# redux
-手动实现一个redux
+## example里面手动实现redux
+## 利用redux实现计数器
